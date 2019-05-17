@@ -1,0 +1,28 @@
+BATM0001,Bat wing aero,12.0
+BATM0002,Adv Bat wing aero,12.0
+BATM0003,Batman theory I,12.0
+BATM0004,Batman theory II,12.0
+BATM0005,Morality studies,12.0
+BATM0006,Adv morality studies,12.0
+BATM0007,Bat suit properties,12.0
+BATM0008,Batman gadgetry,12.0
+CRAS0001,Egypt levels,12.0
+CRAS0002,Snow Levels,12.0
+CRAS0003,Future Levels,12.0
+CRAS0004,Boulder Levels,12.0
+CRAS0005,Arab Levels,12.0
+CRAS0006,Polar Bear Levels,12.0
+CRAS0007,Spin theory,12.0
+CRAS0008,N Tropy theory,12.0
+CRAS0009,N Brio theory,12.0
+CRAS0010,N Gin theory,12.0
+CRAS0011,Adv Egypt Levels,12.0
+CRAS0012,Adv Snow Levels,12.0
+CRAS0013,Adv Future Levels,12.0
+CRAS0014,Adv Boulder Levels,12.0
+CRAS0015,Adv Arab Levels,12.0
+CRAS0016,CTR theory,12.0
+CRAS0017,N Oxide theory,12.0
+CRAS0018,Rillaroo theory,12.0
+CRAS0019,Dingodile theory,12.0
+CRAS0020,Tiny tiger theory,12.0

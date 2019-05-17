@@ -1,0 +1,4 @@
+BM001,Batman studies,288.0,1,N,UG
+CB001,Crash bandicoot studies,288.0,1,N,UG
+DS001,Dog studies,50.0,1,A,UG
+CB002,Master of Crash bandicoot Studies,90.0,1,A,PG
