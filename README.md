@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PiedPiper
 
 Members: 
@@ -16,3 +17,7 @@ Class Diagram: https://www.lucidchart.com/invitations/accept/cb1a778d-fe55-4203-
 
 
 
+=======
+# Study-Progress-System
+Academic Enrolment System
+>>>>>>> f5cc5fb81048d45540aa65b99fe8c6a8840a428f
